@@ -16,4 +16,9 @@
     <PackageReference Include="coverlet.collector" Version="6.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\StringLibrary\StringLibrary.csproj" />
+    <ProjectReference Include="..\TestAPI\TestAPI.csproj" />
+  </ItemGroup>
+
 </Project>

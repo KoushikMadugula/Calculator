@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary", "Calcul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTests", "CalculatorTests\CalculatorTests.csproj", "{9F394C45-2D62-4D0E-809A-0023D266F679}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLibrary", "StringLibrary\StringLibrary.csproj", "{CC1CD156-7C4B-4C6C-B897-30A0A110F1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLibraryTest", "StringLibraryTest\StringLibraryTest.csproj", "{774C0BED-2F49-4EF9-8299-74AD8EAC776A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{9F394C45-2D62-4D0E-809A-0023D266F679}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F394C45-2D62-4D0E-809A-0023D266F679}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F394C45-2D62-4D0E-809A-0023D266F679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1CD156-7C4B-4C6C-B897-30A0A110F1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1CD156-7C4B-4C6C-B897-30A0A110F1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1CD156-7C4B-4C6C-B897-30A0A110F1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1CD156-7C4B-4C6C-B897-30A0A110F1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774C0BED-2F49-4EF9-8299-74AD8EAC776A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774C0BED-2F49-4EF9-8299-74AD8EAC776A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774C0BED-2F49-4EF9-8299-74AD8EAC776A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774C0BED-2F49-4EF9-8299-74AD8EAC776A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
